@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaa2227&label=Profile%20views&color=0e75b6&style=flat" alt="adityaa2227" /> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agarwal.aditya.32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya2227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aditya3204) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaagar324@gmail.com) 
 
