@@ -76,6 +76,13 @@ Software Engineer • Full Stack Developer • SWE Intern @ PayPal
 </p>
 
 ---
+# ⏱ Coding Activity (WakaTime)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aditya2227&theme=tokyonight&layout=compact"/>
+</p>
+
+---
 
 # 📊 GitHub Analytics
 
