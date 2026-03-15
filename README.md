@@ -66,11 +66,11 @@ Software Engineer • Full Stack Developer • SWE Intern @ PayPal
 <p align="center">
 
 <a href="https://leetcode.com/aditya2227">
-<img height="240" src="https://leetcard.jacoblin.cool/aditya2227?theme=dark&font=Baloo&ext=contest"/>
+<img height="280" src="https://leetcard.jacoblin.cool/aditya2227?theme=dark&font=Baloo&ext=contest"/>
 </a>
 
 <a href="https://codeforces.com/profile/aditya2227">
-<img height="240" src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2227&theme=dark"/>
+<img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2227&theme=dark"/>
 </a>
 
 </p>
